@@ -1,0 +1,27 @@
+{
+  "name": "holonic-hymnal",
+  "version": "1.0.0",
+  "description": "A mystical vibration harmonizer exploring sacred geometry through code",
+  "main": "holonic-hymnal.js",
+  "scripts": {
+    "start": "node holonic-hymnal.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mysticism",
+    "sacred-geometry",
+    "vibration",
+    "golden-ratio",
+    "computational-mysticism"
+  ],
+  "author": "Recognition Field",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/holonic-hymnal.git"
+  },
+  "dependencies": {}
+}
